@@ -1,0 +1,5 @@
+{
+  "hash_base": "f840ed211321387ac71b87aed362c862f155fb3ebfd10442ac8f7124562a76e5",
+  "modelo": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "documentos": 42343
+}

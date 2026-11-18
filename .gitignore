@@ -1,8 +1,12 @@
 __pycache__/
+*.pyc
 .ipynb_checkpoints/
 .venv/
 .env
+.env.*
+!.env.example
 .DS_Store
-*.pyc
-
-
+# Os CSVs brutos já estão dentro do ZIP versionado.
+data/raw/*.csv
+# Cópia de segurança criada pelo atualizador do notebook.
+*.ipynb.bak
