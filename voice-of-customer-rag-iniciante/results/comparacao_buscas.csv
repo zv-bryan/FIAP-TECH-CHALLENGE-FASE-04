@@ -1,0 +1,7 @@
+tema,busca,comentarios,com_termos_do_tema
+atraso,TF-IDF,5,5
+atraso,LSA,5,5
+quebrado,TF-IDF,5,1
+quebrado,LSA,5,0
+embalagem,TF-IDF,5,1
+embalagem,LSA,5,0
