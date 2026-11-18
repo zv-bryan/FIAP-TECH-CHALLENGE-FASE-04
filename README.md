@@ -109,8 +109,4 @@ requirements.txt
 requirements-minilm.txt
 ```
 
-O arquivo `slides/Apresentacao.mp4` é mantido no Git LFS. O notebook conserva as saídas de execuções anteriores até ser executado novamente.
-
-### Registro da execução anterior e interpretação
-
-Na execução anterior do notebook, o Ollama obteve 1 de 3 respostas com citações reconhecidas na comparação final. Essa resposta, sobre produtos quebrados, negou indevidamente um relato explícito de acessório quebrado presente em `[E1]`. A nova versão tenta barrar essa negação e orientar a segunda tentativa, mas o resultado só poderá ser conhecido depois de executar novamente o notebook. Os gráficos e os arquivos de `results/` são gerados a partir da execução corrente; os slides devem ser atualizados se esses números mudarem.
+O arquivo `slides/Apresentacao.mp4` é mantido no Git LFS..
