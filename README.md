@@ -80,7 +80,7 @@ No terminal, confirme o modelo com `ollama list`. Em outra janela, execute `olla
 
 - **Falha de conexão:** o serviço não está acessível em `http://localhost:11434`.
 - **Erro HTTP 404:** o nome do modelo pode não corresponder ao instalado (`llama3.2:3b`).
-- **Texto sem `[E1]`:** o modelo respondeu, mas não seguiu o formato pedido; o código tenta mais uma vez.
+- **Texto sem `[E1]`:** o modelo respondeu, mas não seguiu o formto pedido; o código tenta mais uma vez.
 - **Referência não recuperada:** uma referência como `[E99]` é rejeitada.
 - **Contradição explícita:** se a resposta disser que não há produtos quebrados, mas uma evidência mencionar um acessório quebrado, a resposta é rejeitada e uma nova tentativa é feita. Essa regra cobre casos evidentes, não toda contradição possível.
 
@@ -90,7 +90,7 @@ Uma resposta aprovada nas verificações automáticas ainda precisa ser confront
 
 Os comentários são históricos e não representam a experiência atual dos consumidores. Uma busca que retorna cinco avaliações oferece exemplos, não uma estimativa da frequência de um problema em toda a base. A contagem por palavras depende dos termos escolhidos, e uma avaliação pode mencionar mais de um assunto.
 
-A validação das citações verifica se os marcadores pertencem aos comentários recuperados; não comprova automaticamente que cada afirmação da resposta corresponde à fonte. Por isso, no notebook mostro as evidências usadas ao lado das respostas do Ollama.
+A validação das citações verifica se os marcadores pertencem aos comentários recuperados; não comprova automaticamente que cada afirmação da resposta corresponde à fonte. Por isso, no notebook tentei mostras  as evidências usadas ao lado das respostas do Ollama.
 
 ## Organização
 
