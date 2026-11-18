@@ -1,2 +1,2 @@
 C:/Users/Gui/Downloads/tech_challenge_fase4_luiz_e_victor/voice-of-customer-rag-iniciante/slides/Apresentacao.mp4 filter=lfs diff=lfs merge=lfs -text
-voice-of-customer-rag-iniciante/slides/Apresentacao.mp4 filter=lfs diff=lfs merge=lfs -text
+slides/Apresentacao.mp4 filter=lfs diff=lfs merge=lfs -text
